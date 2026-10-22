@@ -1,1 +1,20 @@
 /.metadata/
+# Build output
+out/
+*.class
+ 
+# IDE and editor files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.metadata/
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
+# External libraries (download them separately, see README)
+lib/*.jar
+ 
